@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "serpentinite"
-version = "0.0.1"
+version = "0.0.1a"
 authors = [
   { name="Alessio Proietti", email="alessio.proietti@protonmail.com" },
 ]
